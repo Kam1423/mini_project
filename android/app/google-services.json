@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "409363296260",
+    "project_id": "firesurvivalwiki-a3b38",
+    "storage_bucket": "firesurvivalwiki-a3b38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409363296260:android:97c4ab6d8623cf85a70551",
+        "android_client_info": {
+          "package_name": "com.example.mini_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409363296260-eo6as9b75acideh6i6ovatkqoq3fl5fm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe6qUvjfFktd6jwqlO1zo81Brs-MsSqho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409363296260-eo6as9b75acideh6i6ovatkqoq3fl5fm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

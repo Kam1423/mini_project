@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>409363296260-a02gd1g1sq42ll7dunc481fftlam39v4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.409363296260-a02gd1g1sq42ll7dunc481fftlam39v4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB4_hl5E8grcK6yZv-li0WxGa0LZslDMqs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>409363296260</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.miniProject</string>
+	<key>PROJECT_ID</key>
+	<string>firesurvivalwiki-a3b38</string>
+	<key>STORAGE_BUCKET</key>
+	<string>firesurvivalwiki-a3b38.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:409363296260:ios:3df07917f4e68700a70551</string>
+</dict>
+</plist>
